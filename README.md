@@ -12,6 +12,7 @@ I am a passionate Android Developer with experience in building robust and user-
 ## Find Me Online
 - LinkedIn: [krishna](https://www.linkedin.com/in/krishna-sapkota-a172ab250/)
 - Website/Blog: [sapkotakishna](https://www.sapkotakishna.com.np/)
+- [Facebook](https://www.facebook.com/profile.php?id=100006770895776)
 
 ## Let's Connect
 Feel free to reach out if you're interested in collaborating on a project or just want to chat about Android development!
